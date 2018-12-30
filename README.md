@@ -1,5 +1,10 @@
 # ec2-lab
 
+```
+Contains an EC2Instance and EBS.
+Along with a Role and Policy.
+```
+
 ## Setup EC2 key pairs
 
 ```

@@ -81,3 +81,4 @@ resources:
         Tags:
           - Key: "Name"
             Value: "Ec2-Lab"
+        UserData: ${file(scripts/startup.sh.base64)}
